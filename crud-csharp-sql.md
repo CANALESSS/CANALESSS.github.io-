@@ -1,3 +1,10 @@
+## ☁️ ¿Necesitas un Servidor para Practicar?  
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%201.svg)](https://m.do.co/c/768a41ff6595)  
+Obtén **$200 en créditos gratis** para:  
+- Hostear bases de datos SQL Server/MySQL.  
+- Implementar proyectos de C# en la nube.  
+*(Ganas $25 por cada amigo que gaste $25)*  
+
 # CRUD en C# con SQL Server (Guía Teórica)
 
 > 🔍 **Nota para el lector**:  
